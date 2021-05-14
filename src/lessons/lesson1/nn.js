@@ -12,6 +12,8 @@ function DNAStrand(dna) {
     return arr.join("");
 }
 
+console.log("test");
+
 if (false) console.log("true");
 else console.log("false");
 
